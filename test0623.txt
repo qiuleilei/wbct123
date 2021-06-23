@@ -1,0 +1,10 @@
+
+
+    译者: 林妙倩(清华大学网络研究院网络空间安全实习生)、戴亦仑(赛宁网安)
+    原创翻译作品，如果需要转载请取得翻译作者同意。
+
+    数据来源：ATT&CK Matrices
+
+    原文: https://attack.mitre.org/
+
+    术语表: /attack/glossary
